@@ -72,9 +72,7 @@ Questions, comments and suggestions will naturally arise.
 
 ### Location
 
-~~The location of the code review (or the tool used for the remote meeting) is left to the author and reviewer to decide upon (your lab/office, a meeting room, a local café etc).~~
-
-All code reviews must be carried out remotely at the moment. Please have a look at the [list of options for remote code reviews](remote.md).
+The location of the code review and whether it is online or in person is left to the author and reviewer to decide upon. It could be inyour lab/office, a meeting room, a local café or a Teams/Zoom meeting. Please have a look at the [list of options for remote code reviews](remote.md) for more on ways to run remote code reviews.
 
 ### Duration and scope of the review
 
