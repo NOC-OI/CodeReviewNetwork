@@ -1,5 +1,5 @@
 ---
-name: review proposal
+name: Review Proposal
 about: An issue template to propose code review
 title: ''
 labels: ''
